@@ -1,4 +1,4 @@
-# 👨‍💻 Rodo – Ingeniero de Sistemas | Java Enthusiast | Automatizador Profesional
+# 👨‍💻 Rodolfo – Ingeniero de Sistemas | Java Enthusiast | Automatizador Profesional
 
 ## 💡 Manifiesto de Marca Personal
 
@@ -53,6 +53,6 @@ Líderes técnicos, equipos de desarrollo y organizaciones que buscan innovació
 
 ### 📬 ¿Conectamos?
 Estoy abierto a colaboraciones, proyectos con propósito o simplemente una buena charla sobre tecnología.  
-[📧 Escríbeme](mailto:carcamomesa@gmail.com) | [🌐 LinkedIn]( https://www.linkedin.com/in/rodolfo-carcamo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app| [🐙 GitHub](https://github.com/roqueCarcamo)
+[📧 Escríbeme](mailto:carcamomesa@gmail.com) | [🌐 LinkedIn]( https://www.linkedin.com/in/rodolfo-carcamo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)| [🐙 GitHub](https://github.com/roqueCarcamo)
 
 ---
